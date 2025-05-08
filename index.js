@@ -1,3 +1,4 @@
 import _ from "lodash";
+import { main } from "./src/index.js";
 
-console.log(_.intersection([2, 1], [2, 3]));
+main();
